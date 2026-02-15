@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/port.html"
+  status = 200
